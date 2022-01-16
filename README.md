@@ -1,2 +1,2 @@
 # a-survey-of-the-actor-critic-family
-University Seminar Paper
+University Seminar Paper, not reviewed yet.
